@@ -1,0 +1,19 @@
+Type 1:
+#can extract string in forward manner
+#starting index or ending index or both are available
+#Index interval not available
+Type 2:
+#can extract string in forward manner
+#starting index or ending or both are available
+#Index interval is mandatory
+#Index interval is positive always
+Type 3:
+#starting index, ending index, index interval all are available
+Type 4:
+#starting index or ending index is not available
+#index interval is available
+#index can be positive or negative
+Type 5:
+#starting index and ending index are not available
+#index interval is available
+#index can be positive or negative
