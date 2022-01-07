@@ -1,0 +1,35 @@
+what is print function in python?
+
+The print() function prints the specified message to the screen, or other standard output device.
+The message can be a string, or any other object, the object will be converted into a string before written to the screen.
+
+Complier Vs Interpreter?
+
+A compiler takes entire program and converts it into object code which is typically stored in a file.
+The object code is also refereed as binary code and can be directly executed by the machine after linking.
+Examples of compiled programming languages are C and C++.
+
+An Interpreter directly executes instructions written in a programming or scripting language without previously converting them to an object code or machine code.
+Examples of interpreted languages are Perl, Python and Matlab.
+
+Datatypes in Python?
+
+Numeric:
+Interger
+Float
+Complex
+
+Sequence Type:
+String -> ("")
+List -> []
+Tuple -> (,,,)
+
+Boolean
+True or False
+
+Set
+This will be used -> ()
+
+Dictionary
+This will be used -> {}
+
